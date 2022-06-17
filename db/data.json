@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "7zw7docl4i8d8w6",
+      "cash": 163150,
+      "credit": 102280,
+      "isActive": false
+    },
+    {
+      "id": "7zw7docl4i8e193",
+      "cash": 4000,
+      "credit": 15321,
+      "isActive": true
+    },
+    { "id": "7zw7ye4l4i8h6s8", "cash": 1, "credit": 5646, "isActive": true },
+    { "id": "7zw7ye4l4i8hg3v", "cash": 9460, "credit": 4363, "isActive": true }
+  ]
+}
